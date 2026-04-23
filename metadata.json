@@ -1,0 +1,6 @@
+{
+  "name": "Vocalize Professional",
+  "description": "Une application professionnelle de conversion de texte en parole (TTS) alimentée par l'intelligence artificielle de pointe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered voice synthesis", "Multi-voice support", "Audio playback and download"]
+}
